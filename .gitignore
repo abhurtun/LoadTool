@@ -1,0 +1,4 @@
+/src/bin
+/src/obj
+/.vs/ConsoleSimpleLoadTester/v14/*.suo
+/*.user
